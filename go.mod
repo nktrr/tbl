@@ -3,6 +3,7 @@ module tbl
 go 1.23.1
 
 require (
+	github.com/Graylog2/go-gelf v0.0.0-20170811154226-7ebf4f536d8f
 	github.com/gookit/slog v0.5.6
 	github.com/phuslu/log v1.0.112
 	github.com/rs/zerolog v1.33.0
